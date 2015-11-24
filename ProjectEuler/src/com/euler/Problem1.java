@@ -2,7 +2,7 @@ package com.euler;
 
 /**
  * 
- * @author Taran Pawa
+ * @author iamtaran
  *
  */
 public class Problem1 {

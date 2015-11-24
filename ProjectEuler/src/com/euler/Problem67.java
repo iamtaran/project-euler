@@ -7,7 +7,7 @@ import java.io.IOException;
 
 /**
  * 
- * @author Taran Pawa
+ * @author iamtaran
  *
  */
 public class Problem67 {
@@ -17,7 +17,7 @@ public class Problem67 {
 		int triangle[][] = new int[100][];
 
 		BufferedReader br = new BufferedReader(new FileReader(
-				"C:\\Users\\Taran Pawa\\Desktop\\p067_triangle.txt"));
+				"C:\\Users\\iamtaran\\Desktop\\p067_triangle.txt"));
 		try {
 			StringBuilder sb = new StringBuilder();
 			String line = br.readLine();
