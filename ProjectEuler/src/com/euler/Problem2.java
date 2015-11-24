@@ -1,5 +1,10 @@
 package com.euler;
 
+/**
+ * 
+ * @author Taran Pawa
+ *
+ */
 public class Problem2 {
 
     /**
